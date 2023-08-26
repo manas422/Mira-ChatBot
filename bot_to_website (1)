@@ -1,0 +1,8 @@
+To add this chat bot in your website copy the code:
+
+<iframe
+    allow="microphone;"
+    width="350"
+    height="430"
+    src="https://console.dialogflow.com/api-client/demo/embedded/88ff048f-fd0b-4bc0-81ed-611bbe7c680c">
+</iframe>
