@@ -1,5 +1,4 @@
 # Mira-ChatBot 
-# Pandeyji Eatry Chatbot
 
 Welcome to Pandeyji Eatry Chatbot! This project showcases a chatbot built using Google Dialogflow for the conversational AI and FastAPI for the backend. The chatbot assists users in placing food orders at Pandeyji Eatry, while utilizing a database named `pandeyji_eatry` to manage orders. Additionally, it uses ngrok to enable secure HTTPS communication for webhook integration.
 
